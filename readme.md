@@ -2,6 +2,10 @@ https://freelancehunt.com/project/java-razrabotchik-na-proekt-dva-tri/772055.htm
 
 # Задание
 
+Починить Unit-test
+
+# Описание
+
 Всем привет!
 
 Ищем strong junior java разработчика на большой проект.
